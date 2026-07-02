@@ -8,4 +8,3 @@ aiohttp
 click
 wheel
 multidict
-psycopg2-binary
