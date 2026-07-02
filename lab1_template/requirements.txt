@@ -1,2 +1,10 @@
-django
-psycopg2-binary
+Django
+Pillow
+jinja2
+gunicorn
+contextvars
+typing-extensions
+aiohttp
+click
+wheel
+multidict
